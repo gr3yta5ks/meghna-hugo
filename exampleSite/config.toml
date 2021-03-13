@@ -1,4 +1,4 @@
-baseURL = "https://beta.securedgh.tech"
+baseURL = "beta.securedgh.tech"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
